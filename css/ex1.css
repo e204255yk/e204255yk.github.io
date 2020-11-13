@@ -1,6 +1,6 @@
 h1{
     background-color:greenyellow;
-    color:oldlace;
+    color:darkcyan;
     text-align: center;
 }
 h2{
@@ -18,5 +18,9 @@ body{
     background-image:url(../images/kabe.jpg);
 }
 ol{
+    color:white;
     background-image: url(../images/kabe4.jpg)
+}
+address{
+    color:oldlace;
 }
