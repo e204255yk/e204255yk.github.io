@@ -1,0 +1,20 @@
+.bluecolor{
+    color:blue;
+}
+
+h1#yamada{
+    font-family:impact;
+    font-size:60px;
+}
+
+h2{
+    color:red !important;
+}
+
+h2{
+    color:green;
+}
+
+h2:hover{
+    background-color:beige;
+}
