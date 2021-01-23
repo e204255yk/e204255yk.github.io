@@ -1,0 +1,113 @@
+div.rap{
+   width:1000px;
+    margin:0px auto;
+}
+
+div.Title{
+    width:980px;
+    height:50px;
+    background-color: white;
+    margin-bottom:20px;
+    text-align: center;
+    font-size:38px;
+    font-weight: bold;
+    font-family: "Impact";
+    padding: 10px;
+    border-bottom: solid 5px black;
+}
+
+div.menu{
+    display: inline-block;
+    vertical-align: top;
+    width:1000px;
+    height:1250px;
+    background-color:white;
+    margin-bottom:20px;
+    border-bottom: solid 5px black;
+}
+
+div.menu1{
+    display: inline-block;
+    vertical-align: top;
+    width:250px;
+    height:370px;
+    background-color:white;
+    margin-right: 50px;
+   
+}
+
+div.menu2{
+    display: inline-block;
+    vertical-align: top;
+    width:700px;
+    height:320px;
+   
+}
+
+div.menu_1{
+    width:250px;
+    height:40px;
+    background-color:white;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size:30px;
+    font-weight: bold;
+    font-family: "Impact";
+    padding: 10px;
+}
+
+
+div.menu_2{
+    width:250px;
+    height:40px;
+    background-color:white;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size:30px;
+    font-weight: bold;
+    font-family: "Impact";
+    padding: 10px;
+    color:gray;
+    text-decoration: underline;
+}
+
+div.menu_3{
+    width:250px;
+    height:40px;
+    background-color:white;
+    margin-bottom: 10px;
+    font-size:30px;
+    font-weight: bold;
+    font-family: "Impact";
+    color:gray;
+    padding: 10px;
+    text-decoration: underline;
+}
+
+div.image{
+    width:700px;
+    height:466px;
+    font-size:16px;
+    background-image: url(../images/FD2.png);
+}
+
+div.image2{
+    width:700px;
+    height:466px;
+    font-size:16px;
+    background-image: url(../images/VTEC.png);
+}
+
+
+div.moji{
+    width:710px;
+    height:190px;
+    font-size:16px;
+    color:gray;
+    
+}
+
+
+div.menu{
+    font-size:0;
+}
